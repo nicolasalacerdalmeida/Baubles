@@ -67,7 +67,7 @@ public class SlotBauble extends SlotItemHandler
 	}
 
 	@Override
-	public int getSlotStackLimit()
+	public int getSlotStackLimit(20)
 	{
 		return 1;
 	}
